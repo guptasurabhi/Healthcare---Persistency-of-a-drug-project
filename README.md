@@ -10,7 +10,6 @@ Task:
 3. Data Cleansing and Transformation
 4. Exploratory data analysis
 
-
-1. Business understanding
+ Business understanding
 Pharmaceutical companies face the problem of how to project the persistency patterns of patients who are taking their manufactured medications – i.e., how to determine the percentage of patients who will continue to refill a given prescription on a timely basis. 
 
